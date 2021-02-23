@@ -22,9 +22,10 @@
         android:id="@+id/spinner"
         android:layout_width="244dp"
         android:layout_height="83dp"
+        android:layout_marginTop="88dp"
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="0.64"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
